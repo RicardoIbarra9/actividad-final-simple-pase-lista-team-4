@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1552144085 source:c:\users\pablo\desktop\upv\ipoo\asistencia\main.cpp
+	"CArchivo.h"
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<fstream>
+
+1551975731 source:c:\users\pablo\desktop\upv\ipoo\asistencia\carchivo.cpp
+	"CArchivo.h"
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<fstream>
+
+1551974556 c:\users\pablo\desktop\upv\ipoo\asistencia\carchivo.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<fstream>
+
+1551975732 source:c:\users\delllap\desktop\asistencia final\asistencia\carchivo.cpp
+	"CArchivo.h"
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<fstream>
+
+1551974558 c:\users\delllap\desktop\asistencia final\asistencia\carchivo.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<fstream>
+
+1552144086 source:c:\users\delllap\desktop\asistencia final\asistencia\main.cpp
+	"CArchivo.h"
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<fstream>
+

@@ -24,3 +24,6 @@ Tenemos un programa donde podemos visualizar el contenido del txt en este caso l
 - Modificar archivo txt
 ![](https://raw.githubusercontent.com/UPV-Programacion-Orientada-a-Objetos/actividad-final-simple-pase-lista-team-4/master/im1.png)
 ![](https://raw.githubusercontent.com/UPV-Programacion-Orientada-a-Objetos/actividad-final-simple-pase-lista-team-4/master/im4.png)
+
+Y por último tenemos nuestra interfaz gráfica donde mostraremos los nombres de los alumnos del grupo en el IDE de QT.
+![](https://raw.githubusercontent.com/UPV-Programacion-Orientada-a-Objetos/actividad-final-simple-pase-lista-team-4/master/imagen_1_1.png)

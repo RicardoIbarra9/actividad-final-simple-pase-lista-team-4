@@ -1,20 +1,11 @@
-#include "CArchivo.h"
-#include <iostream>
-#include <string.h>
-#include <stdlib.h>
-#include <fstream>
+#include "mainwindow.h"
+#include <QApplication>
 
-using namespace std;
-
-int main()
+int main(int argc, char *argv[])
 {
+    QApplication a(argc, argv);
+    MainWindow w;
+    w.show();
 
-string contenido;
-string contenido2;
-int opcion;
-
-    CArchivo A1(opcion,contenido,contenido2);
-    A1.MenuGeneral(opcion,contenido,contenido2);
-
-    return 0;
+    return a.exec();
 }
